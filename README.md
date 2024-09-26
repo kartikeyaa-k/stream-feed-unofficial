@@ -70,14 +70,14 @@ dependencies:
 ## Usage
 Here's a basic guide to help you get started with Stream Feed Unofficial:
 
-Initialize the package:
-Before using the package, initialize it in your app:
-
+Dependency registration as per your requirements
 ```dart
 _locator.registerLazySingleton<StreamFeed>(
     () => StreamFeed(),
   );
-...
+```
+
+```dart
 await streamFeed.initializeBaseConfigurations(
   apiKey: 'YOUR_API_KEY',
   feedName: 'YOUR_FEED_NAME',
@@ -87,8 +87,6 @@ await streamFeed.initializeBaseConfigurations(
   openGraphToken: 'YOUR_OPEN_GRAPH_TOKEN',
 );
 ```
-
-Setting up the feed:
 
 ```dart
 await streamFeed.initializeFeed(
@@ -105,9 +103,8 @@ Directly access usecase to build your own solution for state management
   /// Steam Feed Unofficial package exposes all its usecases
   /// For you to write your logic using whichever state management solution.
   final SignupUsecase signupUsecase;
-  //
-  //
-  //
+  ...
+  ...
   final user = await signupUsecase.execute(
         username: username,
         fullName: fullName,
