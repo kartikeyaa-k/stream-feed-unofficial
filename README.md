@@ -30,7 +30,7 @@
 
 
 ## Folder structure - designed for scalability inspired by Clean code architecture
-
+```
 stream_feed_unofficial/
 │
 ├── lib/
@@ -51,7 +51,7 @@ stream_feed_unofficial/
 │   │   │   │   ├── components/
 │   │   │   │   └── activity_list_screen.dart
 
-
+```
 ## Getting Started
 
 ### Installation
