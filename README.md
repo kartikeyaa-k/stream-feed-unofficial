@@ -60,7 +60,8 @@ stream_feed_unofficial/
 <p align="center">
   <div>
     
-  ![Simulator Screen Recording - iPhone 15 Pro Max - 2024-09-27 at 02 11 49](https://github.com/user-attachments/assets/14f63c77-b37e-4420-a763-56ff42d72a49)
+  !![1-2](https://github.com/user-attachments/assets/218ec398-7d52-4241-83e0-24766025a78d)
+
 </div>
   <a href="https://www.youtube.com/watch?v=your_second_video_id" target="_blank">
     <img src="https://img.shields.io/badge/Watch%20Demo%202-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Video 2" style="width: 150px; height: 300px;">
