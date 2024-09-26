@@ -129,6 +129,7 @@ Contributions are welcome! Please see CONTRIBUTING.md for more details.
 5. Handle content length and activity details screen
 6. Better caching
 7. Localization
+
 ...To be continued
 
 ## License
