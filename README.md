@@ -33,7 +33,7 @@
 - **Comprehensive Documentation**: Detailed guides and examples to get you started quickly and efficiently.
 
 
-## Folder structure - designed for scalability inspired by Clean code architecture
+## Designed for scalability inspired by Clean code architecture
 ```
 stream_feed_unofficial/
 │
@@ -99,7 +99,7 @@ await streamFeed.initializeFeed(
 
 ```
 
-Directly access usecase to build your own solution
+Directly access usecase to build your own solution for state management
 
 ```dart
   /// Steam Feed Unofficial package exposes all its usecases
