@@ -129,9 +129,10 @@ Contributions are welcome! Please see CONTRIBUTING.md for more details.
 5. Handle content length and activity details screen
 6. Better caching
 7. Localization
+...To be continued
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
-For any issues or feature requests, please visit the issue tracker.
+For any issues or feature requests, please visit the issue tracker - https://github.com/kartikeyaa-k/stream-feed-unofficial/issues
