@@ -5,14 +5,17 @@
   <a href="https://github.com/kartikeyaa-k" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Github">
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="http://github.com/kartikeyaa-k" target="_blank">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github">
   </a>
-  <a href="https://www.patreon.com/yourpatreon" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-orange?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
+  <a href="http://linkedin.com/in/kartikeya31/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.buymeacoffee.com/yourlink" target="_blank">
     <img src="https://img.shields.io/badge/Buy Me A Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee">
+  </a>
+  <a href="http://kartikeyabadekar.com" target="_blank">
+    <img src="https://img.shields.io/badge/KartikeyaBadekar-Website-F8D977?style=for-the-badge" alt="Website">
   </a>
 </p>
 
