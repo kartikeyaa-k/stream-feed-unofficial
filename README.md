@@ -56,6 +56,17 @@ stream_feed_unofficial/
 │   │   │   │   └── activity_list_screen.dart
 
 ```
+## Preview 
+<p align="center">
+  <div>
+    
+  ![Simulator Screen Recording - iPhone 15 Pro Max - 2024-09-27 at 02 11 49](https://github.com/user-attachments/assets/14f63c77-b37e-4420-a763-56ff42d72a49)
+</div>
+  <a href="https://www.youtube.com/watch?v=your_second_video_id" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Demo%202-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Video 2" style="width: 150px; height: 300px;">
+  </a>
+</p>
+
 ## Getting Started
 
 ### Installation
