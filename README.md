@@ -74,14 +74,14 @@ Initialize the package:
 Before using the package, initialize it in your app:
 
 ```dart
-import 'package:stream_feed_unofficial/stream_feed_unofficial.dart';
-
-final streamFeed = StreamFeed();
-
+_locator.registerLazySingleton<StreamFeed>(
+    () => StreamFeed(),
+  );
+...
 await streamFeed.initializeBaseConfigurations(
   apiKey: 'YOUR_API_KEY',
   feedName: 'YOUR_FEED_NAME',
-  baseEndpoint: 'https://api.stream-io-api.com/api/',
+  baseEndpoint: 'https://[appRegion]-api.stream-io-api.com/api/',
   userReadToken: 'YOUR_USER_READ_TOKEN',
   userWriteToken: 'YOUR_USER_WRITE_TOKEN',
   openGraphToken: 'YOUR_OPEN_GRAPH_TOKEN',
