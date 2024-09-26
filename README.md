@@ -1,12 +1,12 @@
 # Stream Feed Unofficial
-![Logo](https://github.com/user-attachments/assets/131dbea9-41bd-4743-8872-397a72e2d033)
+![Untitled-2](https://github.com/user-attachments/assets/7d6b86ef-7932-464a-b255-93a13489a81d)
 
 <p align="center">
   <a href="https://github.com/kartikeyaa-k" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Github">
   </a>
-  <a href="http://github.com/kartikeyaa-k" target="_blank">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+  <a href="mailto:kartikeya.199231@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Say%20Hi-F8D977?style=for-the-badge&color=orange" alt="Mail">
   </a>
   <a href="http://linkedin.com/in/kartikeya31/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
