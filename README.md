@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/kartikeyaa-k" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github">
   </a>
   <a href="mailto:kartikeya.199231@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Say%20Hi-F8D977?style=for-the-badge&color=orange" alt="Mail">
@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.buymeacoffee.com/yourlink" target="_blank">
-    <img src="https://img.shields.io/badge/Buy Me A Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&color=purple" alt="Buy Me A Coffee">
   </a>
   <a href="http://kartikeyabadekar.com" target="_blank">
-    <img src="https://img.shields.io/badge/KartikeyaBadekar-Website-F8D977?style=for-the-badge" alt="Website">
+    <img src="https://img.shields.io/badge/Website-F8D977?style=for-the-badge" alt="Website">
   </a>
 </p>
 
