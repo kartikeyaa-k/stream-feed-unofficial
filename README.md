@@ -23,13 +23,13 @@
 
 ## Key Features
 
+- **Clean Code Architecture**: Structured with data, domain, and presentation layers to ensure code maintainability and scalability.
+- **Use Case Exposure**: Access to core usecases allows developers to implement their logic and state management framework.
 - **Feed Management**: Easily create, manage, and interact with feeds using the Stream API.
 - **Activity Integration**: Integrate activities seamlessly within your application for a dynamic user experience.
 - **Open Graph Data Handling**: Fetch and display Open Graph data for rich content previews that enhance your feeds.
 - **Dark and Light Theme Support**: Built-in support for customizable themes to match your app's branding.
-- **Clean Code Architecture**: Structured with data, domain, and presentation layers to ensure code maintainability and scalability.
 - **State Management**: Designed using the BLoC pattern.
-- **Use Case Exposure**: Access to core usecases allows developers to implement their logic and state management framework.
 - **Comprehensive Documentation**: Detailed guides and examples to get you started quickly and efficiently.
 
 
