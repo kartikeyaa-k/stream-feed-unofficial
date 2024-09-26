@@ -1,0 +1,47 @@
+name: stream_feed_unofficial
+version: 0.0.1
+description: A feature-rich Flutter package supporting Flutter 3.24.2, designed with Clean Code architecture principles. Stream Feed Unofficial makes it easy to integrate and manage activities, posts, and Open Graph data using Stream API, providing seamless and modern feed-based application experiences.
+homepage: https://github.com/your-username/stream_feed_unofficial
+repository: https://github.com/your-username/stream_feed_unofficial
+issue_tracker: https://github.com/your-username/stream_feed_unofficial/issues
+documentation: https://pub.dev/documentation/stream_feed_unofficial/latest/
+
+environment:
+  sdk: 3.5.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  cupertino_icons: 1.0.8
+  flutter:
+    sdk: flutter
+  
+  logger: 2.4.0 
+  json_annotation: 4.9.0
+  get_it: 7.7.0
+  flutter_bloc: 8.1.6
+  equatable: 2.0.5
+  dart_jsonwebtoken: 2.14.0
+  flutter_secure_storage: 9.2.2
+  jose: 0.3.4
+  intl: 0.19.0
+  shared_preferences: 2.3.2
+  dio: 5.7.0
+  url_launcher: 6.3.0
+  flutter_slidable: 3.1.1
+  google_fonts: 6.2.1
+  cached_network_image: 3.4.1
+  shimmer: 3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: 2.3.3
+  flutter_lints: 4.0.0
+  json_serializable: 6.8.0
+
+flutter:
+  uses-material-design: true
+
+example:
+  description: A demo application showcasing how to use stream_feed_unofficial.
+  path: example/

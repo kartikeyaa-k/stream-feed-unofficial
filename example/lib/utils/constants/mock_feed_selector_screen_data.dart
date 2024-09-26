@@ -1,0 +1,17 @@
+const List<Map<String, String>> mockFeedSelectorScreenDataFromBackend = [
+  {"title": "Music", "image": "assets/images/music.png"},
+  {"title": "Sports", "image": "assets/images/sports.png"},
+  {"title": "Q & A", "image": "assets/images/qa.png"},
+  {"title": "Movies", "image": "assets/images/movies.png"},
+  {"title": "News", "image": "assets/images/news.png"},
+  {"title": "Fashion", "image": "assets/images/fashion.png"},
+  {"title": "Technology", "image": "assets/images/technology.png"},
+  {"title": "Travel", "image": "assets/images/travel.png"},
+  {"title": "Food", "image": "assets/images/food.png"},
+  {"title": "Fitness", "image": "assets/images/fitness.png"},
+  {"title": "Art", "image": "assets/images/art.png"},
+  {"title": "Gaming", "image": "assets/images/gaming.png"},
+  {"title": "Finance", "image": "assets/images/finance.png"},
+  {"title": "Science", "image": "assets/images/science.png"},
+  {"title": "Books", "image": "assets/images/books.png"},
+];

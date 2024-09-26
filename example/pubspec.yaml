@@ -1,0 +1,43 @@
+name: example
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  stream_feed_unofficial:
+    path: ../
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.5
+  get_it: ^7.7.0
+  google_fonts: ^6.2.1
+  cached_network_image: ^3.4.1
+  jose: ^0.3.4
+    
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/music.png
+    - assets/images/sports.png
+    - assets/images/qa.png
+    - assets/images/movies.png
+    - assets/images/news.png
+    - assets/images/fashion.png
+    - assets/images/technology.png
+    - assets/images/travel.png
+    - assets/images/food.png
+    - assets/images/fitness.png
+    - assets/images/art.png
+    - assets/images/gaming.png
+    - assets/images/finance.png
+    - assets/images/science.png
+    - assets/images/books.png
