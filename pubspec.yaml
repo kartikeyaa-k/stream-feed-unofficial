@@ -2,7 +2,7 @@ name: stream_feed_unofficial
 version: 0.0.1
 description: A feature-rich Flutter package supporting Flutter 3.24.2, designed with Clean Code architecture principles. Stream Feed Unofficial makes it easy to integrate and manage activities, posts, and Open Graph data using Stream API, providing seamless and modern feed-based application experiences.
 homepage: https://www.kartikeyabadekar.com
-repository: https://github.com/your-username/stream_feed_unofficial
+repository: https://github.com/kartikeyaa-k/stream-feed-unofficial
 issue_tracker: https://github.com/kartikeyaa-k/stream-feed-unofficial/issues
 documentation: https://pub.dev/documentation/stream_feed_unofficial/latest/
 
