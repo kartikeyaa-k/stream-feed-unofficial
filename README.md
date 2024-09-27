@@ -57,26 +57,14 @@ stream_feed_unofficial/
 
 ```
 ## Preview 
+<a href="https://www.kartikeyabadekar.com/visuals#stream-feed-unofficial-video">Watch example video</a>
 <div style="display: flex; justify-content: center; gap: 10px;">
-<a href="https://kartikeyabadekar.com/visuals#stream-feed-unofficial-video" target="_blank" style="position: relative; display: block;">
-    <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 1" style="height: 300px; width: auto; display: block; object-fit: cover;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/play--v1.png" alt="Play Button" style="width: 50px; height: 50px; opacity: 0.8;">
-    </div>
-  </a>
-  <a href="https://kartikeyabadekar.com/visuals#stream-feed-unofficial-video" target="_blank" style="position: relative; display: block;">
-    <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 1" style="height: 300px; width: auto; display: block; object-fit: cover;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/play--v1.png" alt="Play Button" style="width: 50px; height: 50px; opacity: 0.8;">
-    </div>
-  </a>
-<a href="https://kartikeyabadekar.com/visuals#stream-feed-unofficial-video" target="_blank" style="position: relative; display: block;">
-    <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 1" style="height: 300px; width: auto; display: block; object-fit: cover;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/play--v1.png" alt="Play Button" style="width: 50px; height: 50px; opacity: 0.8;">
-    </div>
-  </a>
+  <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 1" style="height: 450px; width: auto; object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/15a86ade-579f-4527-b164-70293518e574" alt="Image 2" style="height: 450px; width: auto; object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/d316fe62-b286-48ff-a39a-a6386d82e78b" alt="Image 3" style="height: 450px; width: auto; object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/06e5deda-3bca-480a-932f-2d6765d28890" alt="Image 3" style="height: 450px; width: auto; object-fit: cover;">
 </div>
+
 
 
 ## Getting Started
