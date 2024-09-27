@@ -1,5 +1,5 @@
 /// For demo purpose
-String mockCurrentUsername = 'nataliablah';
+String mockCurrentUsername = 'londongrams';
 
 class MockStreamFeedConstants {
   static const String secretKey =
