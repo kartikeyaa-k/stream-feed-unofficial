@@ -19,7 +19,10 @@
   </a>
 </p>
 
-**Stream Feed Unofficial** is a powerful Flutter package that integrates seamlessly with the <a href="https://getstream.io">getstream.io</a> API, providing developers with the tools to build rich, modern feed-based applications effortlessly. Compatible with Flutter 3.24.2, this package is designed with scalability and maintainability in mind, following Clean Code architecture principles. It offers comprehensive support for managing activities, posts, and Open Graph data, while also allowing developers to use its core models and use cases independently to create custom UI and state management solutions.
+**Stream Feed Unofficial** is a powerful Flutter package that integrates seamlessly with the getstream.io API, providing developers with the tools to build rich, modern feed-based applications effortlessly. Compatible with Flutter 3.24.2, this package is designed with scalability and maintainability in mind, following Clean Code architecture principles. It offers comprehensive support for managing activities, posts, and Open Graph data, while also allowing developers to use its core models and use cases independently to create custom UI and state management solutions.
+
+> **Note:** This package is still evolving and is currently less feature-rich compared to the official [stream_feed](https://pub.dev/packages/stream_feed) package. However, it is compatible with the latest Flutter versions 3.24.x. If you need all the features of Stream's API, you may want to consider using the official package, though it may not support the latest Flutter updates.
+
 
 ## Key Features
 
@@ -59,10 +62,10 @@ stream_feed_unofficial/
 ## Preview 
 <a href="https://www.kartikeyabadekar.com/visuals#stream-feed-unofficial-video">Watch example video</a>
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 1" style="height: 450px; width: auto; object-fit: cover;">
-  <img src="https://github.com/user-attachments/assets/15a86ade-579f-4527-b164-70293518e574" alt="Image 2" style="height: 450px; width: auto; object-fit: cover;">
-  <img src="https://github.com/user-attachments/assets/d316fe62-b286-48ff-a39a-a6386d82e78b" alt="Image 3" style="height: 450px; width: auto; object-fit: cover;">
-  <img src="https://github.com/user-attachments/assets/06e5deda-3bca-480a-932f-2d6765d28890" alt="Image 3" style="height: 450px; width: auto; object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 1" style="height: 440px; width: auto; object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/15a86ade-579f-4527-b164-70293518e574" alt="Image 2" style="height: 440px; width: auto; object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/d316fe62-b286-48ff-a39a-a6386d82e78b" alt="Image 3" style="height: 440px; width: auto; object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/06e5deda-3bca-480a-932f-2d6765d28890" alt="Image 3" style="height: 440px; width: auto; object-fit: cover;">
 </div>
 
 
