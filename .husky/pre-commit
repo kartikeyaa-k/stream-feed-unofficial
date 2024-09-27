@@ -1,0 +1,60 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# Define color codes
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+CYAN='\033[0;36m'
+RESET='\033[0m'
+
+echo "${CYAN}Running pre-commit hook${RESET}"
+
+# Function to check branch naming convention
+check_branch_name() {
+  # Get the current branch name
+  branch_name=$(git rev-parse --abbrev-ref HEAD)
+  
+  # Define the regex pattern for branch naming convention
+  branch_pattern="^(feat|bugfix|raise|merge|release)\/sfu-[0-9]{3}-[a-z0-9-]+$"
+
+  # Check if the branch name matches the pattern
+  if [[ ! $branch_name =~ $branch_pattern ]]; then
+    echo "${RED}Error: Branch name '$branch_name' does not follow the required format.${RESET}"
+    echo "${YELLOW}Expected format: feat/sfu-000-add-comment-feature${RESET}"
+    echo "${YELLOW}Allowed prefixes: feat, bugfix, raise, merge, release${RESET}"
+    exit 1
+  fi
+
+  echo "${GREEN}- Passed branch name check${RESET}"
+}
+
+echo "${CYAN}0. Running branch name check${RESET}"
+# Run the branch naming check
+check_branch_name
+
+# Run Dart formatter to check for any formatting issues
+echo "${CYAN}1. Running dart format...${RESET}"
+if ! dart format --set-exit-if-changed .; then
+    echo "${RED}Code is not formatted correctly. Please run 'dart format .' to fix.${RESET}"
+    exit 1
+fi
+echo "${GREEN}- Passed dart format${RESET}"
+
+# Run Dart analyzer to check for any lint issues
+echo "${CYAN}2. Running dart analyze...${RESET}"
+if ! dart analyze; then
+    echo "${RED}Dart analyze found issues. Please fix them before committing.${RESET}"
+    exit 1
+fi
+echo "${GREEN}- Passed dart analyze${RESET}"
+
+# Run tests to ensure everything works as expected
+echo "${CYAN}3. Running tests...${RESET}"
+if ! flutter test; then
+    echo "${RED}Some tests failed. Please fix them before committing.${RESET}"
+    exit 1
+fi
+echo "${GREEN}- Passed tests${RESET}"
+
+echo "${GREEN}- All checks passed. Proceeding with commit.${RESET}"
