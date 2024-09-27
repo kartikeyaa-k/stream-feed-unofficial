@@ -58,18 +58,23 @@ stream_feed_unofficial/
 ```
 ## Preview 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://kartikeyabadekar.com/visuals" target="_blank" style="position: relative; display: block;">
-  
- <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 1" style="height: 300px; width: auto; display: block; object-fit: cover;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/play--v1.png" alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; height: 50px; opacity: 0.8;">
+<a href="https://kartikeyabadekar.com/visuals#stream-feed-unofficial-video" target="_blank" style="position: relative; display: block;">
+    <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 1" style="height: 300px; width: auto; display: block; object-fit: cover;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/play--v1.png" alt="Play Button" style="width: 50px; height: 50px; opacity: 0.8;">
+    </div>
   </a>
-  <a href="https://kartikeyabadekar.com/visuals" target="_blank" style="position: relative; display: block;">
-    <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 2" style="height: 300px; width: auto; display: block; object-fit: cover;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/play--v1.png" alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; height: 50px; opacity: 0.8;">
+  <a href="https://kartikeyabadekar.com/visuals#stream-feed-unofficial-video" target="_blank" style="position: relative; display: block;">
+    <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 1" style="height: 300px; width: auto; display: block; object-fit: cover;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/play--v1.png" alt="Play Button" style="width: 50px; height: 50px; opacity: 0.8;">
+    </div>
   </a>
-  <a href="https://kartikeyabadekar.com/visuals" target="_blank" style="position: relative; display: block;">
-    <img src="[YOUR_THIRD_IMAGE_URL](https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a)" alt="Image 3" style="height: 300px; width: auto; display: block; object-fit: cover;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/play--v1.png" alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; height: 50px; opacity: 0.8;">
+<a href="https://kartikeyabadekar.com/visuals#stream-feed-unofficial-video" target="_blank" style="position: relative; display: block;">
+    <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 1" style="height: 300px; width: auto; display: block; object-fit: cover;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/play--v1.png" alt="Play Button" style="width: 50px; height: 50px; opacity: 0.8;">
+    </div>
   </a>
 </div>
 
