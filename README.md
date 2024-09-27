@@ -19,7 +19,7 @@
   </a>
 </p>
 
-**Stream Feed Unofficial** is a powerful Flutter package that integrates seamlessly with the Stream API, providing developers with the tools to build rich, modern feed-based applications effortlessly. Compatible with Flutter 3.24.2, this package is designed with scalability and maintainability in mind, following Clean Code architecture principles. It offers comprehensive support for managing activities, posts, and Open Graph data, while also allowing developers to use its core models and use cases independently to create custom UI and state management solutions.
+**Stream Feed Unofficial** is a powerful Flutter package that integrates seamlessly with the <a href="https://getstream.io">getstream.io</a> API, providing developers with the tools to build rich, modern feed-based applications effortlessly. Compatible with Flutter 3.24.2, this package is designed with scalability and maintainability in mind, following Clean Code architecture principles. It offers comprehensive support for managing activities, posts, and Open Graph data, while also allowing developers to use its core models and use cases independently to create custom UI and state management solutions.
 
 ## Key Features
 
@@ -57,12 +57,14 @@ stream_feed_unofficial/
 
 ```
 ## Preview 
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/218ec398-7d52-4241-83e0-24766025a78d" alt="Image 1" style="width: auto; height: 250px; object-fit: cover;">
-    <img src="https://github.com/user-attachments/assets/80c2e6ee-1b39-4e30-9794-5e8c1827d0ea" alt="Image 2" style="width: auto; height: 250px; object-fit: cover;">
-  </div>
-</p>
+<a href="https://www.kartikeyabadekar.com/visuals#stream-feed-unofficial-video">Watch example video</a>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 1" style="height: 450px; width: auto; object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/15a86ade-579f-4527-b164-70293518e574" alt="Image 2" style="height: 450px; width: auto; object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/d316fe62-b286-48ff-a39a-a6386d82e78b" alt="Image 3" style="height: 450px; width: auto; object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/06e5deda-3bca-480a-932f-2d6765d28890" alt="Image 3" style="height: 450px; width: auto; object-fit: cover;">
+</div>
+
 
 
 ## Getting Started
