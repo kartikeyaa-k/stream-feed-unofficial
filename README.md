@@ -59,8 +59,8 @@ stream_feed_unofficial/
 ## Preview 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/7ba46e8c-282f-454e-bfa3-52ba8a82f79c" alt="Image 1" style="width: auto; height: 450px; object-fit: cover;">
-    <img src="https://github.com/user-attachments/assets/80c2e6ee-1b39-4e30-9794-5e8c1827d0ea" alt="Image 2" style="width: auto; height: 450px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/7ba46e8c-282f-454e-bfa3-52ba8a82f79c" alt="Image 1" style="width: auto; width:100; height: 250px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/80c2e6ee-1b39-4e30-9794-5e8c1827d0ea" alt="Image 2" style="width: auto; width:100; height: 250px; object-fit: cover;">
   </div>
 </p>
 
