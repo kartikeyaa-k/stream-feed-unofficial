@@ -21,6 +21,9 @@
 
 **Stream Feed Unofficial** is a powerful Flutter package that integrates seamlessly with the <a href="https://getstream.io">getstream.io</a> API, providing developers with the tools to build rich, modern feed-based applications effortlessly. Compatible with Flutter 3.24.2, this package is designed with scalability and maintainability in mind, following Clean Code architecture principles. It offers comprehensive support for managing activities, posts, and Open Graph data, while also allowing developers to use its core models and use cases independently to create custom UI and state management solutions.
 
+Please find the official package stream_feed <a href="https://pub.dev/packages/stream_feed">here</a> 
+
+
 ## Key Features
 
 - **Clean Code Architecture**: Structured with data, domain, and presentation layers to ensure code maintainability and scalability.
