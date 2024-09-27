@@ -58,15 +58,12 @@ stream_feed_unofficial/
 ```
 ## Preview 
 <p align="center">
-  <div>
-    
-  !![1-2](https://github.com/user-attachments/assets/218ec398-7d52-4241-83e0-24766025a78d)
-
-</div>
-  <a href="https://www.youtube.com/watch?v=your_second_video_id" target="_blank">
-    <img src="https://img.shields.io/badge/Watch%20Demo%202-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Video 2" style="width: 150px; height: 300px;">
-  </a>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/218ec398-7d52-4241-83e0-24766025a78d" alt="Image 1" style="width: auto; height: 250px; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/80c2e6ee-1b39-4e30-9794-5e8c1827d0ea" alt="Image 2" style="width: auto; height: 250px; object-fit: cover;">
+  </div>
 </p>
+
 
 ## Getting Started
 
