@@ -143,6 +143,7 @@ Contributions are welcome! Please see CONTRIBUTING.md for more details.
 5. Handle content length and activity details screen
 6. Better caching
 7. Localization
+8. Create separate packages for Data, Domain, and Presentation layers. 
 
 ...To be continued
 
