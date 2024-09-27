@@ -19,9 +19,9 @@
   </a>
 </p>
 
-**Stream Feed Unofficial** is a powerful Flutter package that integrates seamlessly with the <a href="https://getstream.io">getstream.io</a> API, providing developers with the tools to build rich, modern feed-based applications effortlessly. Compatible with Flutter 3.24.2, this package is designed with scalability and maintainability in mind, following Clean Code architecture principles. It offers comprehensive support for managing activities, posts, and Open Graph data, while also allowing developers to use its core models and use cases independently to create custom UI and state management solutions.
+**Stream Feed Unofficial** is a powerful Flutter package that integrates seamlessly with the getstream.io API, providing developers with the tools to build rich, modern feed-based applications effortlessly. Compatible with Flutter 3.24.2, this package is designed with scalability and maintainability in mind, following Clean Code architecture principles. It offers comprehensive support for managing activities, posts, and Open Graph data, while also allowing developers to use its core models and use cases independently to create custom UI and state management solutions.
 
-Please find the official package stream_feed <a href="https://pub.dev/packages/stream_feed">here</a> 
+> **Note:** This package is still evolving and is currently less feature-rich compared to the official [stream_feed](https://pub.dev/packages/stream_feed) package. However, it is compatible with the latest Flutter versions 3.24.x. If you need all the features of Stream's API, you may want to consider using the official package, though it may not support the latest Flutter updates.
 
 
 ## Key Features
