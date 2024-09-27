@@ -19,7 +19,7 @@
   </a>
 </p>
 
-**Stream Feed Unofficial** is a powerful Flutter package that integrates seamlessly with the Stream API, providing developers with the tools to build rich, modern feed-based applications effortlessly. Compatible with Flutter 3.24.2, this package is designed with scalability and maintainability in mind, following Clean Code architecture principles. It offers comprehensive support for managing activities, posts, and Open Graph data, while also allowing developers to use its core models and use cases independently to create custom UI and state management solutions.
+**Stream Feed Unofficial** is a powerful Flutter package that integrates seamlessly with the <a href="https://getstream.io">getstream.io</a> API, providing developers with the tools to build rich, modern feed-based applications effortlessly. Compatible with Flutter 3.24.2, this package is designed with scalability and maintainability in mind, following Clean Code architecture principles. It offers comprehensive support for managing activities, posts, and Open Graph data, while also allowing developers to use its core models and use cases independently to create custom UI and state management solutions.
 
 ## Key Features
 
@@ -57,12 +57,21 @@ stream_feed_unofficial/
 
 ```
 ## Preview 
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/7ba46e8c-282f-454e-bfa3-52ba8a82f79c" alt="Image 1" style="width: auto; width:70; height: 250px; object-fit: cover;">
-    <img src="https://github.com/user-attachments/assets/80c2e6ee-1b39-4e30-9794-5e8c1827d0ea" alt="Image 2" style="width: auto; width:70; height: 250px; object-fit: cover;">
-  </div>
-</p>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://kartikeyabadekar.com/visuals" target="_blank" style="position: relative; display: block;">
+  
+ <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 1" style="height: 300px; width: auto; display: block; object-fit: cover;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/play--v1.png" alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; height: 50px; opacity: 0.8;">
+  </a>
+  <a href="https://kartikeyabadekar.com/visuals" target="_blank" style="position: relative; display: block;">
+    <img src="https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a" alt="Image 2" style="height: 300px; width: auto; display: block; object-fit: cover;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/play--v1.png" alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; height: 50px; opacity: 0.8;">
+  </a>
+  <a href="https://kartikeyabadekar.com/visuals" target="_blank" style="position: relative; display: block;">
+    <img src="[YOUR_THIRD_IMAGE_URL](https://github.com/user-attachments/assets/5b7ccbd2-8005-41e2-98e0-1c4beca01f3a)" alt="Image 3" style="height: 300px; width: auto; display: block; object-fit: cover;">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/play--v1.png" alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; height: 50px; opacity: 0.8;">
+  </a>
+</div>
 
 
 ## Getting Started
