@@ -28,6 +28,7 @@ I have set up a pre-commit hook to maintain code quality and consistency. The pr
 4. **Tests**: Runs the tests to ensure all functionality works as expected and nothing is broken.
 
 *Example of pre-commit hook output showing all checks passed.*
+
 <img width="354" alt="Screenshot 2024-09-28 at 00 50 19" src="https://github.com/user-attachments/assets/489ea17c-b960-41f7-88e4-5ad8fa833f54">
 
 ## Pull Request Template
