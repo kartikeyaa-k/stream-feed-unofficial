@@ -68,7 +68,7 @@ class OpenGraphPreviewComponent extends StatelessWidget {
                   url: openGraphEntity.images?.first.image! ??
                       openGraphEntity.favicon ??
                       '',
-                  height: 150,
+                  height: 200,
                 ),
               ),
             if (openGraphEntity.title != null)
